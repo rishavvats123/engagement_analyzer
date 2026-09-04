@@ -5,4 +5,4 @@ emotion_model.hdf5
 yolov8n.pt
 session_report.csv
 snapshot.jpg
-instance/
+instance/.DS_Store
